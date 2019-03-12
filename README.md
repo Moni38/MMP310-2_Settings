@@ -1,2 +1,2 @@
 # MMP350-Characters-
-Assignment on Characters 
+Assignment on settings homework 2 
