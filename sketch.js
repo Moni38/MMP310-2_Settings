@@ -13,6 +13,10 @@ function setup() {
 function draw() {
     //background
     background(200);
+    fill("black");
+    text("Press mouse to change to summer", 100, 200);
+    text("Press shift + A for winter", 100, 300);
+    text("press shift + B for fall", 100, 400);
 
 
     //seasons
